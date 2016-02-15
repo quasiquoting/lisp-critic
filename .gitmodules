@@ -1,0 +1,4 @@
+[submodule "lfe-critic"]
+	path = lfe-critic
+	url = git@github.com:quasiquoting/lisp-critic.git
+	branch = lfe-critic
